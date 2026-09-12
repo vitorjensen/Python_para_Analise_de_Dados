@@ -1,4 +1,4 @@
-# Análise Exploratória de Danos Informados (CEMADEN)
+# Análise Exploratória de Danos Informados (S2iD)
 
 Análise exploratória de dados (EDA) feita em Python sobre a base **Danos Informados** do CEMADEN, que reúne ocorrências de desastres e calamidades registradas nas regiões do Brasil ao longo de 2024, incluindo eventos com mortes ou feridos.
 
