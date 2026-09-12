@@ -1,6 +1,6 @@
 # Análise Exploratória de Danos Informados (S2iD)
 
-Análise exploratória de dados (EDA) feita em Python sobre a base **Danos Informados** do CEMADEN, que reúne ocorrências de desastres e calamidades registradas nas regiões do Brasil ao longo de 2024, incluindo eventos com mortes ou feridos.
+Análise exploratória de dados (EDA) feita em Python sobre a base **Danos Informados** do Sistema Integrado de Informações sobre Desastres, que reúne ocorrências de desastres e calamidades registradas nas regiões do Brasil ao longo de 2024, incluindo eventos com mortes ou feridos.
 
 O objetivo do projeto é praticar Python para Data Science, cobrindo desde a limpeza dos dados até a análise univariada e a correlação entre variáveis.
 
