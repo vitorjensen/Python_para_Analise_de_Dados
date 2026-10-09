@@ -1,5 +1,4 @@
-# Análise Exploratória de Carros — README
-
+# Análise Exploratória de Carros
 ## Contexto
 
 Este documento resume o estudo conceitual realizado a partir do notebook `Análise_Exploratória_de_Carros.ipynb`, um projeto prático de treinamento em Python para Data Science, com foco em Análise Exploratória de Dados (EDA) aplicada a uma base de anúncios de veículos usados.
