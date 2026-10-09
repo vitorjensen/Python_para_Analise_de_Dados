@@ -26,10 +26,6 @@ Analisar a variação mensal dos preços do **café** e da **soja** (dados do Ce
 - Acurácia, relatório de classificação (precisão, recall e F1) e **matriz de confusão**.
 - Tabela de valores reais versus previstos, com análise dos erros do modelo.
 
-## Ponto de atenção
-
-A variável alvo foi criada a partir das mesmas variações usadas como entrada do modelo. Por isso, o modelo reproduz uma regra já definida e não prevê o comportamento futuro do mercado. O foco do projeto é didático: praticar o ciclo completo de tratamento, análise e classificação.
-
 ## Tecnologias
 
 Python · pandas · numpy · matplotlib · seaborn · scikit-learn · Google Colab
