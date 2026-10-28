@@ -1,2 +1,2 @@
-# Classificação usando Perceptron
+# Classificação de chuva usando Perceptron
 
