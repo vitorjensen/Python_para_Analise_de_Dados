@@ -1,2 +1,3 @@
 # Repositório de estudo de Python para Análise de Dados
-Este repositório é destinado aos estudos de Python para análise, tratamento de dados e lógica de programação. Abordando as ferramentas: Pandas, NumPy, MatPlotlib e Seaborn.
+- Este repositório é destinado aos estudos de Python para Ciência de Dados, análises e aplicação de modelos artificiais.
+- Aborda as ferramentas: Pandas, NumPy, MatPlotlib, Seaborn Scikitlearn.
